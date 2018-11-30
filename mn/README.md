@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/bettexproject/bettexnodescript/master/bettexcoin_install.sh
